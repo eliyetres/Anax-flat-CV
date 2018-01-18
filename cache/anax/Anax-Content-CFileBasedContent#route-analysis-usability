@@ -1,0 +1,121 @@
+O:8:"stdClass":7:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:9:"analysis/";s:4:"text";s:8:"Analyser";}i:0;a:2:{s:3:"url";s:18:"analysis/usability";s:4:"text";s:9:"Usability";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:15:"img/layout2.jpg";}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/write";}s:8:"previous";a:10:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/index";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:6984:"<h1>Usability</h1>
+
+<h2><a href="https://gul.gu.se/">GUL</a></h2>
+
+<p><strong>Learnability 2</strong>: Det är inte så enkelt  för användare att utföra grundläggande uppgifter första gången de möter designen. Sidan har en grundläggande användarvänlighet vad gäller en meny med länkar till delar av hemsidan, men delarna har dåliga beskrivningar. T.ex. så ligger ens personliga kalender och anteckningar under &#8220;Verktyg&#8221; men ens dokument och portfolio under &#8220;Personligt&#8221;. För mig är det lite oklart vad som skiljer dessa åt då de alla är personliga verktyg. Viktiga saker så som länkar till att registera sig på tentor eller se betyg i Ladok ligger under &#8220;Genvägar&#8221;. Enligt mig borde detta ligga mycket tydligare på sidan.</p>
+
+<p><strong>Efficiency 2</strong>: Efter att ha använt denna sida regelbundet i flera år anser jag inte att den uppfyller kraven, det är fortfarande svårt att hitta rätt sida eller veta på vilken sida man skall leta efter  information. Det finns även många olika länkar med olika namn på sidan som leder till samma sak.  Det finns för många olika informationsflöden och alla används oregelbundet. T.ex. kan man få meddelanden genom PIM, mail, anslag i kursen, eller i kursens diskussionsforum. Flera utav länkarna leder inte heller till separata sidor utan till popups som webbläsaren ibland, och ibland inte, blockerar.</p>
+
+<p><strong>Memorability 3</strong>: I och med kraven för Efficiency blir det rörigt och jag upplever att jag har svårt att hitta eftersom  länkar till samma material ligger på olika ställen och inte följer ett konsekvent mönster.</p>
+
+<p><strong>Errors 2</strong>: samma sak för Memorability,  jag upplever att jag gör många fel eftersom jag inte minns var jag skall leta efter det jag vill hitta, då länkar till samma material ligger på olika ställen.</p>
+
+<p><strong>Satisfaction 1</strong>: sidan är inte alls behaglig att använda med hänvisning till punkterna jag nämnt ovan.</p>
+
+<p><strong>Totalt: 8/25</strong></p>
+
+<h2><a href="https://dbwebb.se/">Dbwebb</a></h2>
+
+<p><strong>Learnability 4</strong>: I form av learnability upplevs denna sidan enklare att använda än GUL. Sidan innehåller en meny som är bra strukturerad med både ikoner och text för de delar som man använder sig utav. Den innehåller de funktioner man behöver för att hitta till rätt sida.</p>
+
+<p><strong>Efficiency 4</strong>: I form av Efficiency är det enkelt att lära sig använda sidan, t.ex. då varje sida är strukturerad på samma sätt vilket gör det enklare att leta efter det man vill hitta. Det är enkelt att hitta rätt sida eller veta på vilken sida man skall leta efter  information.  Designen ger en trevlig känsla. Menyn längst upp på sidan gör även att man inte tappar bort sig under tiden man befinner sig på undersidorna.</p>
+
+<p><strong>Memorability 5</strong>: Det är väldigt enkelt att komma ihåg hur man använder sidan tack vare att materialet är strukturerat på ett konsekvent sätt över hela sidan.</p>
+
+<p><strong>Errors 5:</strong> När materialet är strukturerat konsekvent över sidorna upplever jag att det blir enklare att komma ihåg hur man använder sidan tack vare att materialet är strukturerat på ett konsekvent sätt över hela sidan.
+Satisfaction 4: Både upplevelsen av de tekniska aspekterna och designen är väldigt bra.</p>
+
+<p><strong>Totalt: 17/25</strong></p>
+
+<h2><a href="https://facebook.se/">Facebook</a></h2>
+
+<p><strong>Learnability 4</strong>: Det är enkelt  för användare att utföra grundläggande uppgifter första gången de möter designen.  Sidan saknar dock beskrivningar till vilka undersidor som finns utan förlitar sig på att användaren skall förstå baserat på symbolerna.</p>
+
+<p><strong>Efficiency 5</strong>:  Sidan är enkel iom att den har få länkar till de olika sidorna. Det vanligaste en användare utför är att visa andras eller ens egna statusflöde. På samma sida kan man läsa kommentarer, skriva egna, reagera på det andra postat samt skriva en egen status. Alla vanliga åtgärderna är väldigt nära tillgängliga och headern som alltid finns längst upp oavsett på vilken undersida var man befinner sig. Sidan mycket enkel att använda.</p>
+
+<p><strong>Memorability 5</strong>: Detta är en sida jag och många andra använder upprepade gånger varje dag och ioch med det lär man sig enklare hur delarna fungerar. Eftersom sidan är en föregångare till hur man kommenterar och använder sociala medier blir den enkelt att använda. Den sätter standarden för många andra sidor.</p>
+
+<p><strong>Errors 5</strong>: Då huvudmenyn alltid ligger på samma ställe är det svårt att göra något som helst fel.</p>
+
+<p><strong>Satisfaction 4</strong>: Upplevelsen av de tekniska aspekterna är väldigt bra men jag upplever ibland att sidorna kan bli för plottriga då sidan försöker visa så mycket information för användaren som möjligt. Det är ibland svårt att veta var man skall fokusera.</p>
+
+<p><strong>Totalt: 23/25</strong></p>
+
+<h2><a href="https://youtube.se/">YouTube</a></h2>
+
+<p><strong>Learnability 5</strong>: Startsidan gör ett bra jobb med att innehålla det användaren behöver. Det är enkelt  för användare att spela upp filmer  första gången de möter designen då startsidan bara innehåller de få saker man behöver för att använda sidan - att se på eller ladda upp filmer. Sedan finns även användarprofil och en sidomeny med de kanaler man prenumererar på. Mitten av sidan innehåller flödet med filmer från samtliga kanaler som man prenumererar på.</p>
+
+<p><strong>Efficiency 4</strong>:  Sidan har enkel åtkomst till de vanliga sakerna, att se eller ladda upp filmer. Som användare utan kanal spenderar man främst tiden i flödet på förstasidan. Ju mer kanaler man följer desto svårare blir det att hitta någon specifik video från en viss kanal. Dock kan man lösa detta genom att välja kanalen från sidomenyn.</p>
+
+<p><strong>Memorability 4</strong>: Layouten är enkel och lätt att minnas, främst för att den bara innehåller de viktigaste funktionerna.</p>
+
+<p><strong>Errors 5</strong>: I mitt test kan jag inte hitta några fel som en användare kan göra. Då huvudmenyn alltid ligger på samma ställe är det svårt att göra fel i själva navigeringen. Man kan enkelt skriva kommentarer samt radera dessa, och man kan även ångra gilla-markeringar och man får direkt feedback genom att t.ex. gilla-markeringen antingen är ifylld eller inte.</p>
+
+<p><strong>Satisfaction 5</strong>: Upplevelsen av de tekniska aspekterna är väldigt bra men jag upplever ibland att sidorna kan bli för plottriga då sidan försöker visa så mycket information för användaren som möjligt. Det är ibland svårt att veta var man skall fokusera.</p>
+
+<p><strong>Totalt: 23/25</strong></p>
+
+<h3>De sidor som fick bäst poäng i analysen är Facebook och Youtube.</h3>
+";s:7:"excerpt";s:6984:"<h1>Usability</h1>
+
+<h2><a href="https://gul.gu.se/">GUL</a></h2>
+
+<p><strong>Learnability 2</strong>: Det är inte så enkelt  för användare att utföra grundläggande uppgifter första gången de möter designen. Sidan har en grundläggande användarvänlighet vad gäller en meny med länkar till delar av hemsidan, men delarna har dåliga beskrivningar. T.ex. så ligger ens personliga kalender och anteckningar under &#8220;Verktyg&#8221; men ens dokument och portfolio under &#8220;Personligt&#8221;. För mig är det lite oklart vad som skiljer dessa åt då de alla är personliga verktyg. Viktiga saker så som länkar till att registera sig på tentor eller se betyg i Ladok ligger under &#8220;Genvägar&#8221;. Enligt mig borde detta ligga mycket tydligare på sidan.</p>
+
+<p><strong>Efficiency 2</strong>: Efter att ha använt denna sida regelbundet i flera år anser jag inte att den uppfyller kraven, det är fortfarande svårt att hitta rätt sida eller veta på vilken sida man skall leta efter  information. Det finns även många olika länkar med olika namn på sidan som leder till samma sak.  Det finns för många olika informationsflöden och alla används oregelbundet. T.ex. kan man få meddelanden genom PIM, mail, anslag i kursen, eller i kursens diskussionsforum. Flera utav länkarna leder inte heller till separata sidor utan till popups som webbläsaren ibland, och ibland inte, blockerar.</p>
+
+<p><strong>Memorability 3</strong>: I och med kraven för Efficiency blir det rörigt och jag upplever att jag har svårt att hitta eftersom  länkar till samma material ligger på olika ställen och inte följer ett konsekvent mönster.</p>
+
+<p><strong>Errors 2</strong>: samma sak för Memorability,  jag upplever att jag gör många fel eftersom jag inte minns var jag skall leta efter det jag vill hitta, då länkar till samma material ligger på olika ställen.</p>
+
+<p><strong>Satisfaction 1</strong>: sidan är inte alls behaglig att använda med hänvisning till punkterna jag nämnt ovan.</p>
+
+<p><strong>Totalt: 8/25</strong></p>
+
+<h2><a href="https://dbwebb.se/">Dbwebb</a></h2>
+
+<p><strong>Learnability 4</strong>: I form av learnability upplevs denna sidan enklare att använda än GUL. Sidan innehåller en meny som är bra strukturerad med både ikoner och text för de delar som man använder sig utav. Den innehåller de funktioner man behöver för att hitta till rätt sida.</p>
+
+<p><strong>Efficiency 4</strong>: I form av Efficiency är det enkelt att lära sig använda sidan, t.ex. då varje sida är strukturerad på samma sätt vilket gör det enklare att leta efter det man vill hitta. Det är enkelt att hitta rätt sida eller veta på vilken sida man skall leta efter  information.  Designen ger en trevlig känsla. Menyn längst upp på sidan gör även att man inte tappar bort sig under tiden man befinner sig på undersidorna.</p>
+
+<p><strong>Memorability 5</strong>: Det är väldigt enkelt att komma ihåg hur man använder sidan tack vare att materialet är strukturerat på ett konsekvent sätt över hela sidan.</p>
+
+<p><strong>Errors 5:</strong> När materialet är strukturerat konsekvent över sidorna upplever jag att det blir enklare att komma ihåg hur man använder sidan tack vare att materialet är strukturerat på ett konsekvent sätt över hela sidan.
+Satisfaction 4: Både upplevelsen av de tekniska aspekterna och designen är väldigt bra.</p>
+
+<p><strong>Totalt: 17/25</strong></p>
+
+<h2><a href="https://facebook.se/">Facebook</a></h2>
+
+<p><strong>Learnability 4</strong>: Det är enkelt  för användare att utföra grundläggande uppgifter första gången de möter designen.  Sidan saknar dock beskrivningar till vilka undersidor som finns utan förlitar sig på att användaren skall förstå baserat på symbolerna.</p>
+
+<p><strong>Efficiency 5</strong>:  Sidan är enkel iom att den har få länkar till de olika sidorna. Det vanligaste en användare utför är att visa andras eller ens egna statusflöde. På samma sida kan man läsa kommentarer, skriva egna, reagera på det andra postat samt skriva en egen status. Alla vanliga åtgärderna är väldigt nära tillgängliga och headern som alltid finns längst upp oavsett på vilken undersida var man befinner sig. Sidan mycket enkel att använda.</p>
+
+<p><strong>Memorability 5</strong>: Detta är en sida jag och många andra använder upprepade gånger varje dag och ioch med det lär man sig enklare hur delarna fungerar. Eftersom sidan är en föregångare till hur man kommenterar och använder sociala medier blir den enkelt att använda. Den sätter standarden för många andra sidor.</p>
+
+<p><strong>Errors 5</strong>: Då huvudmenyn alltid ligger på samma ställe är det svårt att göra något som helst fel.</p>
+
+<p><strong>Satisfaction 4</strong>: Upplevelsen av de tekniska aspekterna är väldigt bra men jag upplever ibland att sidorna kan bli för plottriga då sidan försöker visa så mycket information för användaren som möjligt. Det är ibland svårt att veta var man skall fokusera.</p>
+
+<p><strong>Totalt: 23/25</strong></p>
+
+<h2><a href="https://youtube.se/">YouTube</a></h2>
+
+<p><strong>Learnability 5</strong>: Startsidan gör ett bra jobb med att innehålla det användaren behöver. Det är enkelt  för användare att spela upp filmer  första gången de möter designen då startsidan bara innehåller de få saker man behöver för att använda sidan - att se på eller ladda upp filmer. Sedan finns även användarprofil och en sidomeny med de kanaler man prenumererar på. Mitten av sidan innehåller flödet med filmer från samtliga kanaler som man prenumererar på.</p>
+
+<p><strong>Efficiency 4</strong>:  Sidan har enkel åtkomst till de vanliga sakerna, att se eller ladda upp filmer. Som användare utan kanal spenderar man främst tiden i flödet på förstasidan. Ju mer kanaler man följer desto svårare blir det att hitta någon specifik video från en viss kanal. Dock kan man lösa detta genom att välja kanalen från sidomenyn.</p>
+
+<p><strong>Memorability 4</strong>: Layouten är enkel och lätt att minnas, främst för att den bara innehåller de viktigaste funktionerna.</p>
+
+<p><strong>Errors 5</strong>: I mitt test kan jag inte hitta några fel som en användare kan göra. Då huvudmenyn alltid ligger på samma ställe är det svårt att göra fel i själva navigeringen. Man kan enkelt skriva kommentarer samt radera dessa, och man kan även ångra gilla-markeringar och man får direkt feedback genom att t.ex. gilla-markeringen antingen är ifylld eller inte.</p>
+
+<p><strong>Satisfaction 5</strong>: Upplevelsen av de tekniska aspekterna är väldigt bra men jag upplever ibland att sidorna kan bli för plottriga då sidan försöker visa så mycket information för användaren som möjligt. Det är ibland svårt att veta var man skall fokusera.</p>
+
+<p><strong>Totalt: 23/25</strong></p>
+
+<h3>De sidor som fick bäst poäng i analysen är Facebook och Youtube.</h3>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/write";}s:8:"previous";a:10:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:14:"analysis/index";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:7:"Reports";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:3:{s:14:"analysis/index";a:9:{s:4:"file";s:21:"analysis/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:18:"analysis/usability";a:9:{s:4:"file";s:25:"analysis/701_usability.md";s:7:"section";s:3:"701";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Usability";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:14:"analysis/write";a:9:{s:4:"file";s:21:"analysis/702_write.md";s:7:"section";s:3:"702";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Write";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:409:"<!-- <figure class="figure">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/elin50.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/elin50.jpg?q=50" alt="Elin."/></a>
+<figcaption markdown=1>Elin.</figcaption>
+</figure> **Elin Hagman** - Läser kognitionsvetenskap på Göteborgs Universitet och webbprogrammering på Blekinge Tekniska Högskola. Bor i Göteborg. -->
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}}s:11:"frontmatter";a:1:{s:5:"title";s:9:"Usability";}}

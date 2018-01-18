@@ -1,0 +1,27 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"about";s:4:"text";s:17:"Om den här sidan";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:17:"image/layout2.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:991:"<h1>Om den här sidan</h1>
+
+<!-- I about-sidan lägger du in information om kunden, så som du tolkat kundens önskemål, kundens verksamhet och hur kunden vill att webbplatsen skall se ut och användas. Det blir din egen formulering och tolkning av kundens krav. -->
+
+<p>Den här sidan representerar egenföretagaren Bew Gorp, som nyss har startat upp en egen verksamhet där hon hyr ut sig själv som webbutvecklare och designer. Sidan skapades som marknadsföring för Bew, där CV och referenser visas samt för att visa upp hennes portfolio.</p>
+
+<ul>
+<li>Projektarbete <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
+</ul>
+
+<p>Källkoden för den här sidan finns tillgänglig på GitHub i <a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/git@github.com:canax/anax-flat.git">canax/anax-flat</a>.</p>
+
+<p>Denna sida skapades av <a href="http://www.student.bth.se/~elhb16/dbwebb-kurser/design/me/anax-flat/htdocs/">Elin Hagman</a> (e.hagman@outlook.com).</p>
+";s:7:"excerpt";s:991:"<h1>Om den här sidan</h1>
+
+<!-- I about-sidan lägger du in information om kunden, så som du tolkat kundens önskemål, kundens verksamhet och hur kunden vill att webbplatsen skall se ut och användas. Det blir din egen formulering och tolkning av kundens krav. -->
+
+<p>Den här sidan representerar egenföretagaren Bew Gorp, som nyss har startat upp en egen verksamhet där hon hyr ut sig själv som webbutvecklare och designer. Sidan skapades som marknadsföring för Bew, där CV och referenser visas samt för att visa upp hennes portfolio.</p>
+
+<ul>
+<li>Projektarbete <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
+</ul>
+
+<p>Källkoden för den här sidan finns tillgänglig på GitHub i <a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/git@github.com:canax/anax-flat.git">canax/anax-flat</a>.</p>
+
+<p>Denna sida skapades av <a href="http://www.student.bth.se/~elhb16/dbwebb-kurser/design/me/anax-flat/htdocs/">Elin Hagman</a> (e.hagman@outlook.com).</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:17:"Om den här sidan";}}

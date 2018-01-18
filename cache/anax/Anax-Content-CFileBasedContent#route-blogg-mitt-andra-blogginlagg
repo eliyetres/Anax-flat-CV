@@ -1,0 +1,32 @@
+O:8:"stdClass":7:{s:4:"file";s:35:"blogg/201_mitt-andra-blogginlagg.md";s:7:"section";s:3:"201";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:6:"bewgop";a:1:{s:7:"acronym";s:6:"bewgop";}}s:9:"published";s:10:"2017-12-20";s:8:"category";a:1:{s:14:"designaspekter";a:1:{s:3:"key";s:14:"designaspekter";}}s:7:"content";s:903:"<h1>Typografi</h1>
+
+<p>Typografi är läran om bokstavsformerna och deras användning. Typografi och bild är de viktigaste delarna i grafisk kommunikation, det är så vi kan kommunicera eller överföra budskapet. Det finns oändliga möjligheter att kombinera ord och bild på olika sätt. Vilket sätt som är lämpligast avgörs av sammanhang och budskap.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/transfer.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/transfer.jpg?w=600&=q80area=20,20,30,30" alt="Typografi"/></a>
+<figcaption>
+
+<p>Typografi</p>
+
+</figcaption>
+</figure>
+
+<p>Vid val av teckensnitt bör man ta hänsyn till läsbarheten och kongenialiteten (att passa sammanhanget). Läsbarheten påverkas av vilket teckensnitt vi väljer. Ett teckensnitt som vi är vana att läsa ökar även läsbarheten.</p>
+";s:7:"excerpt";s:903:"<h1>Typografi</h1>
+
+<p>Typografi är läran om bokstavsformerna och deras användning. Typografi och bild är de viktigaste delarna i grafisk kommunikation, det är så vi kan kommunicera eller överföra budskapet. Det finns oändliga möjligheter att kombinera ord och bild på olika sätt. Vilket sätt som är lämpligast avgörs av sammanhang och budskap.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/transfer.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/transfer.jpg?w=600&=q80area=20,20,30,30" alt="Typografi"/></a>
+<figcaption>
+
+<p>Typografi</p>
+
+</figcaption>
+</figure>
+
+<p>Vid val av teckensnitt bör man ta hänsyn till läsbarheten och kongenialiteten (att passa sammanhanget). Läsbarheten påverkas av vilket teckensnitt vi väljer. Ett teckensnitt som vi är vana att läsa ökar även läsbarheten.</p>
+";}}s:6:"byline";a:4:{s:6:"region";s:4:"main";s:8:"template";s:14:"default/byline";s:4:"sort";i:2;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:6:"author";}s:6:"author";a:1:{s:6:"bewgop";a:1:{s:7:"acronym";s:6:"bewgop";}}}}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:36:"blogg/100_mitt-forsta-blogginlagg.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:20:"Färg &amp; texturer";s:11:"publishTime";i:1513033200;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:29:"blogg/mitt-forsta-blogginlagg";}s:8:"previous";a:10:{s:4:"file";s:36:"blogg/302_mitt-tredje-blogginlagg.md";s:7:"section";s:3:"302";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Layout";s:11:"publishTime";i:1513724400;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:29:"blogg/mitt-tredje-blogginlagg";}}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"blogg/";s:4:"text";s:13:"Min portfolio";}i:0;a:2:{s:3:"url";s:28:"blogg/mitt-andra-blogginlagg";s:4:"text";s:9:"Typografi";}}}}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:0:{}}}s:11:"block-about";a:5:{s:5:"title";s:13:"Min portfolio";s:4:"data";a:2:{s:7:"content";s:160:"<h4>Min portfolio</h4>
+
+<p>Min blogg innehåller bland annat delar av min portfolio från de projekt som jag varit med och skapat eller pågående projekt.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:6:"bewgop";s:9:"published";s:10:"2017-12-20";s:8:"category";a:1:{i:0;s:14:"designaspekter";}s:5:"title";s:9:"Typografi";}}

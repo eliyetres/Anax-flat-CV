@@ -1,0 +1,36 @@
+O:8:"stdClass":7:{s:4:"file";s:36:"blogg/302_mitt-tredje-blogginlagg.md";s:7:"section";s:3:"302";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:6:"bewgop";a:1:{s:7:"acronym";s:6:"bewgop";}}s:9:"published";s:10:"2017-12-20";s:8:"category";a:1:{s:14:"designaspekter";a:1:{s:3:"key";s:14:"designaspekter";}}s:7:"content";s:1283:"<h1>Layout</h1>
+
+<p>Det är layouten som avgör i vilken ordning rubriker, texter och bilder läses. En bra layout får mottagaren att uppmärksamma och förstå budskapet, vilket är det viktigaste i grafisk kommunikation.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/phone.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/phone.jpg?w=600&=q50" alt="Layout"/></a>
+<figcaption>
+
+<p>Layout</p>
+
+</figcaption>
+</figure>
+
+<p>Upptäckten av designprocessen handlar om att möta kunderna och lära sig vad de gör. Det är viktigt att samla in information om vem kunderna är och hur de bedriver sin verksamhet för att komma fram till en lämplig och effektiv design. Innan man planerar sitt första möte med en klient, bör man spendera tid på att undersöka verksamheten.</p>
+
+<p>Om du inte kan hitta någon information om deras verksamhet specifikt, försök att lära dig så mycket som möjligt om sin bransch före det första mötet. När det är möjligt bör det första mötet med en klient genomföras personligen. Ibland kommer distansen att diktera att mötet måste ske över telefon. Om kunden finns i närheten är det rimligt att planera en tid för att träffas ansikte mot ansikte.</p>
+";s:7:"excerpt";s:1283:"<h1>Layout</h1>
+
+<p>Det är layouten som avgör i vilken ordning rubriker, texter och bilder läses. En bra layout får mottagaren att uppmärksamma och förstå budskapet, vilket är det viktigaste i grafisk kommunikation.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/phone.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/phone.jpg?w=600&=q50" alt="Layout"/></a>
+<figcaption>
+
+<p>Layout</p>
+
+</figcaption>
+</figure>
+
+<p>Upptäckten av designprocessen handlar om att möta kunderna och lära sig vad de gör. Det är viktigt att samla in information om vem kunderna är och hur de bedriver sin verksamhet för att komma fram till en lämplig och effektiv design. Innan man planerar sitt första möte med en klient, bör man spendera tid på att undersöka verksamheten.</p>
+
+<p>Om du inte kan hitta någon information om deras verksamhet specifikt, försök att lära dig så mycket som möjligt om sin bransch före det första mötet. När det är möjligt bör det första mötet med en klient genomföras personligen. Ibland kommer distansen att diktera att mötet måste ske över telefon. Om kunden finns i närheten är det rimligt att planera en tid för att träffas ansikte mot ansikte.</p>
+";}}s:6:"byline";a:4:{s:6:"region";s:4:"main";s:8:"template";s:14:"default/byline";s:4:"sort";i:2;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:6:"author";}s:6:"author";a:1:{s:6:"bewgop";a:1:{s:7:"acronym";s:6:"bewgop";}}}}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:35:"blogg/201_mitt-andra-blogginlagg.md";s:7:"section";s:3:"201";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:9:"Typografi";s:11:"publishTime";i:1513724400;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:28:"blogg/mitt-andra-blogginlagg";}s:8:"previous";N;}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"blogg/";s:4:"text";s:13:"Min portfolio";}i:0;a:2:{s:3:"url";s:29:"blogg/mitt-tredje-blogginlagg";s:4:"text";s:6:"Layout";}}}}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:0:{}}}s:11:"block-about";a:5:{s:5:"title";s:13:"Min portfolio";s:4:"data";a:2:{s:7:"content";s:160:"<h4>Min portfolio</h4>
+
+<p>Min blogg innehåller bland annat delar av min portfolio från de projekt som jag varit med och skapat eller pågående projekt.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:6:"bewgop";s:9:"published";s:10:"2017-12-20";s:8:"category";a:1:{i:0;s:14:"designaspekter";}s:5:"title";s:6:"Layout";}}

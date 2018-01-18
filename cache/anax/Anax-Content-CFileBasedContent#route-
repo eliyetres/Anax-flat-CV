@@ -1,0 +1,182 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:4:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:17:"image/layout2.jpg";}}s:8:"sidebar1";a:5:{s:5:"title";s:9:"Kompetens";s:4:"data";a:2:{s:7:"content";s:461:"<h1>Kompetens</h1>
+
+<h2>Programmering</h2>
+
+<ul>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Unix</li>
+<li>PHP</li>
+<li>Haskell</li>
+</ul>
+
+<hr />
+
+<h2>Språk</h2>
+
+<ul>
+<li>Svenska</li>
+<li>Engelska</li>
+<li>Tyska</li>
+<li>Ryska</li>
+<li>Spanska</li>
+</ul>
+
+<hr />
+
+<h2>Kontakt</h2>
+
+<p><strong>Tele</strong> 0701234567</p>
+
+<p><strong>Plats</strong> Göteborg</p>
+
+<p><strong>Mail</strong> bwgop@outlook.com</p>
+
+<p><strong>Fb</strong>   http://facebook.com/</p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:13:"block/sidebar";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:15:"default/content";s:4:"sort";i:-1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:3486:"<h1>Bew Gorp portfolio</h1>
+
+<figure class="figure left">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/redhead.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/redhead.jpg?w=300&crop-to-fit&q=80" alt="Bew Gorp"/></a>
+<figcaption>
+
+<p>Bew Gorp</p>
+
+</figcaption>
+</figure>
+
+<h2>Om mig</h2>
+
+<p>Hechas, pues, estas prevenciones, no quiso aguardar más tiempo a poner en efecto su pensamiento, apretándole a ello la falta que él pensaba que hacía en el mundo su tardanza, según eran los agravios que pensaba deshacer, tuertos que enderezar, sinrazones que enmendar, y abusos que mejorar, y deudas que satisfacer.</p>
+
+<hr />
+
+<figure class="figure right">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/download.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/download.jpg?w=200&q=70" alt="Layout"/></a>
+<figcaption>
+
+<p>Layout</p>
+
+</figcaption>
+</figure>
+
+<h2>Utbildning</h2>
+
+<h3>2016-2018</h3>
+
+<p><strong>Programmering - Blekinge Tekniska Högskola</strong></p>
+
+<p>Praktiskt inriktade kurser i programmering med projekarbeten som examinering. 
+Användnig av HTML och CSS för att bygga webbplatser med lagringsinnehåll i SQLite.</p>
+
+<p>Fokus på design och användbarhetsaspekter, men ur ett praktiskt och programmeringsinriktat perspektiv.
+Databaser och objektorienterad utvecklingsteknik</p>
+
+<p>Objektorienterat synsätt på programmeringsspråket PHP och användning av ett objektorienterat gränssnitt mot databasen MySQL.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/473505660.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/473505660.jpg?w=400&&h=200&q=70&crop-to-fit" alt="Smartphones"/></a>
+<figcaption>
+
+<p>Smartphones</p>
+
+</figcaption>
+</figure>
+
+<h3>2015-2018</h3>
+
+<p><strong>Göteborgs Universitet - Programmering 2</strong></p>
+
+<p>Introduktion i programmering (Python), operativsystem (Linux) och webbutveckling (JavaScript, HTML, CSS) för traditionella skrivbordsdatorer, mobila enheter och läsplattor.</p>
+
+<p>Grunderna inom strukturerad programmering och problemlösning i Python med filhantering, datastrukturer, kopplingar till databaser. Klientbaserade webbapplikationer i JavaScript, HTML5, CSS3 Node.js på Linuxserver med Linux som OS. Skript-program i BASH och miljöer med JS och Node.js. JS-servrar och tjänster med Node.js API i Linux-miljö. Appar med fokus på mobila enheter och läsplattor. RESTful API:er och JSON-data för att bygga webappar och web-hybrider.</p>
+
+<h2>Arbete</h2>
+
+<h3>2010-2018</h3>
+
+<p><strong>IJ UX Design  - Programmerare</strong></p>
+
+<p>Designingenjören formger dessutom utifrån de upplevelser produkten ska förmedla. Som designingenjör vet du hur man tar fram underlag för produkter som blir uppskattade och användbara. Du får kännedom om hela produktframtagningsprocessen, från behov till färdig produkt, men din styrka ligger i att förstå användarens behov och omsätta detta i en mångfald av kreativa produktlösningar. Genom de kurser som genomförs i samverkan med näringslivet, får du värdefulla erfarenheter och kontakter.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/computer.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/computer.jpg?w=400&&h=200&q=70&crop-to-fit" alt="Design"/></a>
+<figcaption>
+
+<p>Design</p>
+
+</figcaption>
+</figure>
+";s:7:"excerpt";s:3486:"<h1>Bew Gorp portfolio</h1>
+
+<figure class="figure left">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/redhead.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/redhead.jpg?w=300&crop-to-fit&q=80" alt="Bew Gorp"/></a>
+<figcaption>
+
+<p>Bew Gorp</p>
+
+</figcaption>
+</figure>
+
+<h2>Om mig</h2>
+
+<p>Hechas, pues, estas prevenciones, no quiso aguardar más tiempo a poner en efecto su pensamiento, apretándole a ello la falta que él pensaba que hacía en el mundo su tardanza, según eran los agravios que pensaba deshacer, tuertos que enderezar, sinrazones que enmendar, y abusos que mejorar, y deudas que satisfacer.</p>
+
+<hr />
+
+<figure class="figure right">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/download.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/download.jpg?w=200&q=70" alt="Layout"/></a>
+<figcaption>
+
+<p>Layout</p>
+
+</figcaption>
+</figure>
+
+<h2>Utbildning</h2>
+
+<h3>2016-2018</h3>
+
+<p><strong>Programmering - Blekinge Tekniska Högskola</strong></p>
+
+<p>Praktiskt inriktade kurser i programmering med projekarbeten som examinering. 
+Användnig av HTML och CSS för att bygga webbplatser med lagringsinnehåll i SQLite.</p>
+
+<p>Fokus på design och användbarhetsaspekter, men ur ett praktiskt och programmeringsinriktat perspektiv.
+Databaser och objektorienterad utvecklingsteknik</p>
+
+<p>Objektorienterat synsätt på programmeringsspråket PHP och användning av ett objektorienterat gränssnitt mot databasen MySQL.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/473505660.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/473505660.jpg?w=400&&h=200&q=70&crop-to-fit" alt="Smartphones"/></a>
+<figcaption>
+
+<p>Smartphones</p>
+
+</figcaption>
+</figure>
+
+<h3>2015-2018</h3>
+
+<p><strong>Göteborgs Universitet - Programmering 2</strong></p>
+
+<p>Introduktion i programmering (Python), operativsystem (Linux) och webbutveckling (JavaScript, HTML, CSS) för traditionella skrivbordsdatorer, mobila enheter och läsplattor.</p>
+
+<p>Grunderna inom strukturerad programmering och problemlösning i Python med filhantering, datastrukturer, kopplingar till databaser. Klientbaserade webbapplikationer i JavaScript, HTML5, CSS3 Node.js på Linuxserver med Linux som OS. Skript-program i BASH och miljöer med JS och Node.js. JS-servrar och tjänster med Node.js API i Linux-miljö. Appar med fokus på mobila enheter och läsplattor. RESTful API:er och JSON-data för att bygga webappar och web-hybrider.</p>
+
+<h2>Arbete</h2>
+
+<h3>2010-2018</h3>
+
+<p><strong>IJ UX Design  - Programmerare</strong></p>
+
+<p>Designingenjören formger dessutom utifrån de upplevelser produkten ska förmedla. Som designingenjör vet du hur man tar fram underlag för produkter som blir uppskattade och användbara. Du får kännedom om hela produktframtagningsprocessen, från behov till färdig produkt, men din styrka ligger i att förstå användarens behov och omsätta detta i en mångfald av kreativa produktlösningar. Genom de kurser som genomförs i samverkan med näringslivet, får du värdefulla erfarenheter och kontakter.</p>
+
+<figure class="figure center">
+<a href="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/computer.jpg"><img src="http://localhost:8080/dbwebb/design/me/proj/htdocs/image/computer.jpg?w=400&&h=200&q=70&crop-to-fit" alt="Design"/></a>
+<figcaption>
+
+<p>Design</p>
+
+</figcaption>
+</figure>
+";}}}s:11:"frontmatter";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"views";a:1:{s:8:"sidebar1";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:15:"default/content";s:4:"sort";i:-1;s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:13:"block/sidebar";}}}}s:5:"title";s:18:"Bew Gorp portfolio";}}
